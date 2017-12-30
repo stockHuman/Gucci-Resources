@@ -3,6 +3,8 @@ Because I literally couldn't do it better myself
 
 ## Contents
 * [On Github](#github)
+* [Articles](#articles)
+  * [Medium](#medium)
 * [Personal Sites](#people)
   * [Twitter](#twitter)
 * [Content Aggregators](#Aggregators)
@@ -10,6 +12,11 @@ Because I literally couldn't do it better myself
 ## Github
 * [Terkel's Awesome Creative Coding list](https://github.com/terkelg/awesome-creative-coding) - Interaction design, information visualization and generative art
 
+## Articles
+
+### Medium
+
+* [AI resources you can use today](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
 ## Aggregators
 * [Resourcy](https://resourcy.space/) - Development, Design, Entrepreneurship, Marketing, Freelancing, Personal, Tools & Cryptocurrencies
