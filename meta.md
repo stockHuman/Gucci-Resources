@@ -10,13 +10,14 @@ Because I literally couldn't do it better myself
 * [Content Aggregators](#Aggregators)
 
 ## Github
+* [The Awesome list network](https://github.com/sindresorhus/awesome) - All the awesome lists, some of which are noted below
 * [Terkel's Awesome Creative Coding list](https://github.com/terkelg/awesome-creative-coding) - Interaction design, information visualization and generative art
 * [Open source games](https://github.com/leereilly/games)
 
 ## Articles
 
 ### Medium
-
+* [Learning Machine Learning](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 * [AI resources you can use today](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
 ## Aggregators
