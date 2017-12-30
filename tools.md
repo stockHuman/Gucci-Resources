@@ -23,6 +23,7 @@
 
 ## Workflow
 
+* [dotfiles](https://github.com/paulirish/dotfiles) - Paul Irish's dotfiles!
 * [Hotel](https://github.com/typicode/hotel) - Start apps from your browser and get local domains in seconds!
 
 ## Editors
