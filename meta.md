@@ -3,7 +3,7 @@ Because I literally couldn't do it better myself
 
 ## Contents
 * [On Github](#github)
-* [Personal Sites)(#people)
+* [Personal Sites](#people)
   * [Twitter](#twitter)
 * [Content Aggregators](#Aggregators)
 
