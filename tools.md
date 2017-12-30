@@ -3,6 +3,7 @@
 ## Contents
 * [Javascript](#js)
   * [Animation](#js-anim)
+  * [Boilerplates](#js-boilerplates)
 * [Workflow](#workflow)
 * [Code editors](#editors)
   * [Online](#edit-online)
@@ -15,6 +16,10 @@
 <h3 id="js-anim">Animation</h3>
 
 * [Kute](https://thednp.github.io/kute.js/) - superb performance, SVG morphing, stroke drawing and 2D & 3D transforms, CSS3 & more
+
+<h3 id="js-boilerplates">Boilerplates</h3>
+
+* [Amplitude](https://521dimensions.com/open-source/amplitudejs) - Excellent HTML5 audio player and API
 
 ## Workflow
 
