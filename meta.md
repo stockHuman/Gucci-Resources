@@ -11,6 +11,7 @@ Because I literally couldn't do it better myself
 
 ## Github
 * [Terkel's Awesome Creative Coding list](https://github.com/terkelg/awesome-creative-coding) - Interaction design, information visualization and generative art
+* [Open source games](https://github.com/leereilly/games)
 
 ## Articles
 
@@ -20,3 +21,4 @@ Because I literally couldn't do it better myself
 
 ## Aggregators
 * [Resourcy](https://resourcy.space/) - Development, Design, Entrepreneurship, Marketing, Freelancing, Personal, Tools & Cryptocurrencies
+* [Hate News Index](https://projects.propublica.org/hate-news-index/) - For all your hate in the news needs
