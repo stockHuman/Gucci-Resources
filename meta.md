@@ -23,3 +23,4 @@ Because I literally couldn't do it better myself
 ## Aggregators
 * [Resourcy](https://resourcy.space/) - Development, Design, Entrepreneurship, Marketing, Freelancing, Personal, Tools & Cryptocurrencies
 * [Hate News Index](https://projects.propublica.org/hate-news-index/) - For all your hate in the news needs
+* [Open Source Design](http://opensourcedesign.net/resources/) - find openly licensed icons, fonts, image, tools and other resources
