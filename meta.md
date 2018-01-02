@@ -13,6 +13,7 @@ Because I literally couldn't do it better myself
 * [The Awesome list network](https://github.com/sindresorhus/awesome) - All the awesome lists, some of which are noted below
 * [Terkel's Awesome Creative Coding list](https://github.com/terkelg/awesome-creative-coding) - Interaction design, information visualization and generative art
 * [Open source games](https://github.com/leereilly/games)
+* [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 
 ## Articles
 
